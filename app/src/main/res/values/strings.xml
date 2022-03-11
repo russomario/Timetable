@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timetable</string>
+    <string name="home">Home</string>
+    <string name="week_days">Working days</string>
+    <string name="add_class">Add a class</string>
+    <string name="edit">Edit classes</string>
+    <string name="settings">Settings</string>
+    <string name="days_selection">Choose your week days!</string>
+</resources>
